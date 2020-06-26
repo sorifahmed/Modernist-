@@ -1,0 +1,112 @@
+@media screen and (max-width:980px){
+
+.sliderimg img {
+    width: 100%;
+}
+.sliderimg {
+    margin-top: 35px;
+}
+.header h2 {
+    font-size: 26px;
+}
+.form-control {
+    width: 100%px;
+}
+.col-md-5.mr-auto {
+    margin-left: 230px;
+}}
+
+
+@media screen and (max-width:768px){
+
+.sliderimg img {
+    margin-left: 100%;
+}
+.slidersection {
+    padding: 0px 0px;
+    padding-bottom: 30px;
+}
+.col-md-5.mr-auto {
+    margin-left: 141px;
+}
+.form-control {
+    width: 100%;
+}
+.contact {
+    margin-bottom: 58px;
+}}
+
+@media screen and (max-width:576px){
+.contact {
+    text-align: center;
+}
+.contact p {
+    text-align: center;
+}
+#navbarNavDropdown {
+    margin-top: 12px;
+}
+.form-control {
+    width: 70%;
+    margin: 0 auto;
+}}
+
+
+@media screen and (max-width:555px){
+.col-md-5.mr-auto {
+    margin-left: 156px;
+}
+button.btn.btn-dark {
+    padding: 4px 19px;
+    font-size: 19px;
+}
+
+
+
+}
+@media screen and (max-width:527px){
+
+.col-md-5.mr-auto {
+    margin-left: 124px;
+}
+
+}
+@media screen and (max-width:433px){
+
+.col-md-5.mr-auto {
+    margin-left: 100px;
+}
+
+}
+@media screen and (max-width:450px){
+
+.col-md-5.mr-auto {
+    margin-left: 100px;
+}
+
+}
+@media screen and (max-width:350px){
+
+.col-md-5.mr-auto {
+    margin-left: 60px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
